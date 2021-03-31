@@ -1,0 +1,13 @@
+	Well come subhahsree Reatil
+
+Bill Number : 1843
+Customer Name : ss
+Phone Number : 22
+======================================
+ Products		QTY		Price
+======================================
+ Bath soap		1		10
+--------------------------------------
+ Cosmetic Tax			Rs. 0.5
+--------------------------------------
+ Total Bill : 			Rs. 10.5

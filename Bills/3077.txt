@@ -1,0 +1,13 @@
+	Well come subhahsree Reatil
+
+Bill Number : 3077
+Customer Name : shree
+Phone Number : 3010205063
+======================================
+ Products		QTY		Price
+======================================
+ Bath soap		5		50
+--------------------------------------
+ Cosmetic Tax			Rs. 2.5
+--------------------------------------
+ Total Bill : 			Rs. 52.5
